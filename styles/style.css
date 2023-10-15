@@ -132,6 +132,10 @@ a {
 /* Header adap start*/
 
 @media (max-width:1212px) {
+    .header__nav-box-info-a {
+        background: #FFF;
+    }
+
     .header__box-contant-subtitle {
         text-align: center;
     }
